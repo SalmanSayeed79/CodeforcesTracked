@@ -1,8 +1,6 @@
-[![Cover.png](https://i.postimg.cc/PqrQZWD4/cft.png)]
-
-# CodeforcesTracked
-A complete solution to the codeforces users that has many functionailties like saving certain problems, tracking my friends, visiting my account details, searching for submissions and saving them for later use. [Mobile app
 # Codeforces Tracked
+
+[![Cover.png](https://i.postimg.cc/PqrQZWD4/cft.png)]
 
 ## Project Overview
 ----
